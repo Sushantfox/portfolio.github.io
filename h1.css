@@ -1,0 +1,23 @@
+h1{
+    color: rgb(240,240,240);
+    }
+    header{
+    text-align:center;
+    background-color:rgb(180,180,180);
+    }
+    h2{
+    color:rgb(0,0,139);
+    }
+    a{
+    color:rgb(60,60,60);
+    background-color:rgb(200,200,200);
+    }
+    nav{
+    text-align:left;
+    }
+    aside.left{
+    display:none;
+        }
+    section{
+    background-color:rgb(100,100,100);
+    }
