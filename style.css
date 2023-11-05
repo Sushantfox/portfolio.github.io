@@ -556,6 +556,32 @@ footer span a{
 footer span a:hover{
     text-decoration: underline;
 }
+/* Add this CSS in your style.css file */
+.social-icons a {
+    margin-right: 15px; /* Adjust the margin as needed */
+}
+/* Add this CSS in your style.css file */
+/* Add this CSS in your style.css file */
+
+/* Increase the size of social media icons */
+.social-icons a i {
+    font-size: 32px; /* Adjust the font size as needed */
+}
+/* Add this CSS in your style.css file */
+
+/* Move social media icons a little to the right with spacing */
+/* .social-icons {
+   text-align: center;
+    padding-left: 30px; /* Adjust the padding as needed */
+/* } */ 
+
+/* Add this CSS in your style.css file */
+
+/* Customize the position of individual social media icons */
+.social-icons a i {
+    position: relative;
+    left: 60px; /* Adjust the left value as needed to move the icon right */
+}
 
 
 /* responsive media query start */
